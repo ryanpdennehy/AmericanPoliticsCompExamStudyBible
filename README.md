@@ -11,14 +11,7 @@ Additionally, this repository includes a PDF guide for students preparing for Ph
 
 ## About the Guide
 
-The American Politics Comprehensive Exam Study Bible is a set of study notes that I compiled to assist in preparation for Ph.D. exams in American politics. The guide is structured around major thematic areas, such as:
-	•	Public opinion and political attitudes
-	•	Voting behavior and participation
-	•	Partisanship and polarization
-	•	Campaigns and elections
-	•	Interest groups and lobbying
-	•	Congress, the presidency, and the courts
-	•	Policy and federalism
+The American Politics Comprehensive Exam Study Bible is a set of study notes that I compiled to assist in preparation for Ph.D. exams in American politics. The guide is structured around major thematic areas, such as: public opinion and political attitudes, voting behavior and participation, partisanship and polarization, campaigns and elections, interest groups and lobbying, Congress, the presidency, and the courts, and policy and federalism
 
 Each section provides detailed summaries of key works, including discussions of theory, methods, findings, and important quotations. While the guide is not a substitute for reading the original literature, it serves as a useful supplement for organizing and reviewing major debates in the field.
 
@@ -26,9 +19,7 @@ The guide reflects my experience as a Ph.D. student at the University of South C
 
 I encourage you to verify any quotations against the original sources before using them in your own work.
 
-How to use this repository:
-	•	The bib file can be imported into any reference management software (e.g., Zotero, Endnote, Mendeley, BibTeX) for easy citation tracking.
-	•	The PDF guide provides a structured overview of the field and serves as a reference tool for students preparing for exams or conducting research in American politics.
+How to use this repository: (1) The bib file can be imported into any reference management software (e.g., Zotero, Endnote, Mendeley, BibTeX) for easy citation tracking. (2) The PDF guide provides a structured overview of the field and serves as a reference tool for students preparing for exams or conducting research in American politics.
 
 ## Contributing and Cleaning the Bib File
 
